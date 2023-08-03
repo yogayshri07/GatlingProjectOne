@@ -1,0 +1,70 @@
+RUN	com.gatling.tests.api.PostPutDeleteApiDemo	postputdeleteapidemo	1691008125412	 	3.6.1
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008127267
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008127267
+USER	Create User	START	1691008127248
+USER	Update User	START	1691008127255
+USER	Delete User	START	1691008127261
+REQUEST		 Delete User	1691008127313	1691008127571	OK	 
+USER	Delete User	END	1691008127591
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008127726
+USER	Update User	START	1691008127726
+USER	Delete User	START	1691008127727
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008127739
+USER	Create User	START	1691008127739
+REQUEST		 Delete User	1691008127727	1691008128002	OK	 
+USER	Delete User	END	1691008128004
+USER	Delete User	START	1691008128227
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008128235
+USER	Update User	START	1691008128235
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008128250
+USER	Create User	START	1691008128250
+USER	Create User	END	1691008128282
+REQUEST		 Delete User	1691008128228	1691008128470	OK	 
+USER	Delete User	END	1691008128471
+USER	Delete User	START	1691008128729
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008128749
+USER	Create User	END	1691008128749
+USER	Create User	START	1691008128749
+REQUEST		 Delete User	1691008128730	1691008128972	OK	 
+USER	Delete User	END	1691008128973
+USER	Delete User	START	1691008129229
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008129232
+USER	Update User	START	1691008129232
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008129249
+USER	Create User	START	1691008129249
+USER	Create User	END	1691008129265
+REQUEST		 Delete User	1691008129230	1691008129454	OK	 
+USER	Delete User	END	1691008129455
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008129733
+USER	Create User	START	1691008129733
+USER	Create User	END	1691008129764
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008130232
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008130232
+USER	Update User	START	1691008130232
+USER	Create User	START	1691008130232
+USER	Create User	END	1691008130264
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008130736
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008130736
+USER	Create User	END	1691008130736
+USER	Create User	START	1691008130736
+USER	Update User	START	1691008130736
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008131240
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008131240
+USER	Create User	START	1691008131240
+USER	Update User	START	1691008131240
+USER	Create User	END	1691008131240
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691008131732
+USER	Create User	START	1691008131732
+USER	Create User	END	1691008131747
+ERROR	 Update User: Failed to build request: No baseUrl defined but provided url is relative : /users/2 	1691008132234
+USER	Update User	START	1691008132234
+USER	Create User	END	1691008132249
+USER	Update User	END	1691008132280
+USER	Create User	END	1691008132740
+USER	Update User	END	1691008132740
+USER	Update User	END	1691008133241
+USER	Update User	END	1691008134245
+USER	Update User	END	1691008135236
+USER	Update User	END	1691008135740
+USER	Update User	END	1691008136257
+USER	Update User	END	1691008137236

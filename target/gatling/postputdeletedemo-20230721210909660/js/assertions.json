@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.api.postPutDeleteDemo",
+  "simulationId": "postputdeletedemo",
+  "start": 1689973749660,
+  "description": "create",
+  "scenarios": ["Create User"],
+  "assertions": [
+
+  ]
+}

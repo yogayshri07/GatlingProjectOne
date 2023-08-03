@@ -1,0 +1,61 @@
+RUN	com.gatling.tests.api.PostPutDeleteApiDemo	postputdeleteapidemo	1691007362974	 	3.6.1
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007364420
+USER	Create User	START	1691007364401
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007364437
+USER	Update User	START	1691007364404
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007364889
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007364889
+USER	Update User	START	1691007364889
+USER	Create User	START	1691007364889
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007365392
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007365393
+USER	Create User	START	1691007365392
+USER	Update User	START	1691007365392
+USER	Create User	END	1691007365440
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007365894
+USER	Create User	END	1691007365894
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007365895
+USER	Create User	START	1691007365894
+USER	Update User	START	1691007365894
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007366394
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007366394
+USER	Create User	END	1691007366394
+USER	Create User	START	1691007366394
+USER	Update User	START	1691007366394
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007366884
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007366884
+USER	Update User	START	1691007366884
+USER	Create User	START	1691007366884
+USER	Create User	END	1691007366899
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007367384
+USER	Update User	START	1691007367384
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007367385
+USER	Create User	START	1691007367385
+USER	Create User	END	1691007367399
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007367883
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007367884
+USER	Create User	START	1691007367883
+USER	Update User	START	1691007367883
+USER	Create User	END	1691007367899
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007368387
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007368387
+USER	Create User	START	1691007368387
+USER	Update User	START	1691007368387
+USER	Create User	END	1691007368387
+ERROR	Create User Req: Failed to build request: No baseUrl defined but provided url is relative : /users 	1691007368889
+ERROR	 Update User: Failed to build request: Resource data/user.json not found 	1691007368889
+USER	Create User	END	1691007368889
+USER	Update User	START	1691007368889
+USER	Create User	START	1691007368889
+USER	Create User	END	1691007369392
+USER	Update User	END	1691007369439
+USER	Create User	END	1691007369892
+USER	Update User	END	1691007369892
+USER	Update User	END	1691007370408
+USER	Update User	END	1691007370896
+USER	Update User	END	1691007371411
+USER	Update User	END	1691007371898
+USER	Update User	END	1691007372395
+USER	Update User	END	1691007372886
+USER	Update User	END	1691007373402
+USER	Update User	END	1691007373904
